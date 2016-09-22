@@ -1,0 +1,22 @@
+body {
+  font-family:"chaparral-pro", Helvetica, serif;
+  font-size: 1.8em;
+  color: white;
+  background: #f7f7f7;
+  background: linear-gradient(to right bottom, #f7f7f7, #b3b3b3);
+  }
+
+.content {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+h1, h2 {
+  font-size: 1em;
+  font-weight: 400;
+  margin: 0;
+}
+
+h3 {
+  font-family:"mr-eaves-xl-sans";
+}
